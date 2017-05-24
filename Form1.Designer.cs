@@ -71,6 +71,7 @@
             this.Polacz.TabIndex = 3;
             this.Polacz.Text = "Polacz";
             this.Polacz.UseVisualStyleBackColor = true;
+            this.Polacz.Click += new System.EventHandler(this.Polacz_Click);
             // 
             // Form1
             // 
